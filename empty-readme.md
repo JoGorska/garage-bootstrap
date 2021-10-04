@@ -46,8 +46,7 @@ Click [here](???) to live site.
 
 1.  the information to be clear and informative;
 2.  the website be easy to navigate;
-3.  provide results in metric and imperial for the user;
-3.  the information could help to design accessible wheelchair corridors;
+
 
 ### Wireframes 
 
@@ -152,7 +151,7 @@ By forking the GitHub Repository you will be able to make a copy of the original
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
-$ git clone https://github.com/Richardaeld/Hackathaon-trust-in-soda-team-2
+$ git clone ???
 ```
 
 7. Press Enter. Your local clone will be created.
