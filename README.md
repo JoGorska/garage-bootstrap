@@ -47,8 +47,7 @@ Click [here](https://jogorska.github.io/garage-bootstrap/) to live site.
 
 1.  the information to be clear and informative;
 2.  the website be easy to navigate;
-3.  provide results in metric and imperial for the user;
-3.  the information could help to design accessible wheelchair corridors;
+
 
 ### Wireframes 
 
@@ -155,10 +154,10 @@ $ git clone https://github.com/JoGorska/garage-bootstrap
 
 
 ## Credits 
-[Icons8](https://icons8.com/)
-[unsplash](https://unsplash.com/)
-[Fontawsome](https://fontawesome.com/)
-[Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [Icons8](https://icons8.com/)
+* [unsplash](https://unsplash.com/)
+* [Fontawsome](https://fontawesome.com/)
+* [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
 This page was created following Introduction to bootstrap by Matt Rudge (Code Institute mentor)
 
