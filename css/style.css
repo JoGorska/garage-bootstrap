@@ -7,7 +7,21 @@ body {
 
 .alert-container {}
 
-.callout-container {}
+.callout-container {
+    height: 100vh;
+
+    background: url('../images/dmitriy-demidov-iuuJC_pjLU0-unsplash.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
 
 .quotes-container {}
 
