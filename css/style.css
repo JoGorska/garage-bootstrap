@@ -30,10 +30,42 @@ body {
     position: relative;
 }
 
-.callout-container- {
+.callout-container-stearing-wheel {
     height: 100vh;
 
-    background: url('../images/dmitriy-demidov-iuuJC_pjLU0-unsplash.jpg') no-repeat center center fixed;
+    background: url('../images/02-stearing-wheel-pexels-malte-luk-1412213.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.callout-container-stop-button {
+    height: 100vh;
+
+    background: url('../images/02-stop-button-pexels-luis-quintero-3689527-square.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.callout-container-tyre {
+    height: 100vh;
+
+    background: url('../images/02-tyre-nazim-zafri-7M3aFdvbSpo-unsplash.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -47,6 +79,15 @@ body {
 }
 
 .blue-opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 50, 0.5);
+}
+
+.black-opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
