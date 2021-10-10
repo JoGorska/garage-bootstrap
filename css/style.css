@@ -127,6 +127,14 @@ body {
 }
 /* Navbar */
 
+.border-radius-brand {
+    border-radius: 50%;
+}
+
+.invert-colors-brand {
+    filter: invert(100%);
+}
+
 .navalert-container {
     position: absolute;
     top: 0;
