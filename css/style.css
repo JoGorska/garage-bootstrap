@@ -12,7 +12,25 @@ body {
     color: white;
 }
 
-.callout-container {
+/* different background image */
+
+.callout-container-spanners {
+    height: 100vh;
+
+    background: url('../images/02-spanners-dmitriy-demidov-iuuJC_pjLU0-unsplash.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.callout-container- {
     height: 100vh;
 
     background: url('../images/dmitriy-demidov-iuuJC_pjLU0-unsplash.jpg') no-repeat center center fixed;
@@ -28,7 +46,7 @@ body {
     position: relative;
 }
 
-.opaque-overlay {
+.blue-opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
