@@ -33,7 +33,7 @@
 
 # Fantastic Autos
 
-![showpiece](images/showpiece.png)
+[![showpiece](images/01-showpiece.png)](https://jogorska.github.io/garage-bootstrap/)
 
 Click [here](https://jogorska.github.io/garage-bootstrap/) to live site.  
 
